@@ -1,5 +1,5 @@
 .idea
-graphqllexer.egg-info
+*.egg-info/
 
 *.swp
 *.pyc
